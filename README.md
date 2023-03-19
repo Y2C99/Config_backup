@@ -1,2 +1,2 @@
-# My_Neovim_config
-Neovim config backup
+# My neovim and alacritty config
+config backup
