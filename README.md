@@ -1,2 +1,2 @@
-# My_Neovim-Alacritty_config
-Neovim-Alacritty config backup
+# Config backup
+config backup
